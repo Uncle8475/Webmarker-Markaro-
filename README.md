@@ -40,4 +40,5 @@ Note: This extension currently works only on Chromium-based browsers.
 
 ---
 
-**Developed by PP**
+**Developed by Ashwin Singh Bisht **
+
